@@ -2,9 +2,9 @@
 
 namespace ConsoleApp1
 {
-    class kalkulacka
+    class Programm
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
 
             Console.WriteLine("Vitej v kalkulacce. Vyber si prosim matematickou operaci.");
